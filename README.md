@@ -2,18 +2,13 @@
 
 let's tell you about myself ⚡️:
 
-- At the moment I'm developing a closed project ImpulseLP ⭐
+- I had a lot of projects that I was doing alone. (ImpulseLP-VasilievvLP, gui LP, etc LP's), and more sites. ⭐
 
-- I'm programming in python. Have plan to write in js 👨‍💻
+- I used to write websites and bots in javascript and python. Now I'm back to writing games in C# 👨‍💻
 
-- I love night time movie's 🌌
 
 ## How to contact me?
 
-You can contact me on any social network or by email 💘
+# You can contact me by email. 📧
 
-- [VK1](https://vk.com/mvasiliev2004)
-
-- [VK2](https://vk.com/gvasiliev2004)
-
-- Email: impulselps@hotmail.com
+- Email: # impulselps@hotmail.com
