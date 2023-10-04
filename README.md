@@ -9,6 +9,4 @@ A little about me 😋:
 
 # How to contact me? 📧
 
-## You can contact me by email. 
-
 - Email: impulselps@hotmail.com
