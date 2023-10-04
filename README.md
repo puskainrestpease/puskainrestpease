@@ -1,4 +1,4 @@
-### Hello friend, my name is Maxim Vasiliev 👋
+# Hello friend, my name is Maxim Vasiliev 👋
 
 let's tell you about myself ⚡️:
 
@@ -7,8 +7,8 @@ let's tell you about myself ⚡️:
 - I used to write websites and bots in javascript and python. Now I'm back to writing games in C# 👨‍💻
 
 
-## How to contact me?
+# How to contact me?
 
-# You can contact me by email. 📧
+## You can contact me by email. 📧
 
-- Email: # impulselps@hotmail.com
+- Email: ### impulselps@hotmail.com
