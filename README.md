@@ -1,6 +1,5 @@
 # Maksim Vasiliev C# game-devoloper и Godot разработчик
 
-## About me ★:
 
 # 𖤐 𐦍 ☾𖤓 ࣪𖤐 𐦍 ☾𖤓
 
