@@ -1,4 +1,4 @@
-# Maksim Vasiliev C# game-devoloper и Godot разработчик
+# Maksim Vasiliev C# game-devoloper и Godot game-devoloper
 
 
 # 𖤐 𐦍 ☾𖤓 ࣪𖤐 𐦍 ☾𖤓
