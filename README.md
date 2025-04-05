@@ -1,4 +1,7 @@
-<img src="https://github.com/user-attachments/assets/f9b01133-b90d-4c17-a71e-c142460b7722" width="400" alt="Dev Banner" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f9b01133-b90d-4c17-a71e-c142460b7722" width="500" alt="Dev Banner"/>
+</p>
+
 <p align="center">
   <a href="https://github.com/puskainrestpease">
     <img src="https://img.shields.io/github/followers/puskainrestpease?label=Followers&style=flat-square" alt="GitHub followers" />
@@ -13,3 +16,5 @@
     <img src="https://img.shields.io/github/commit-activity/m/puskainrestpease/puskainrestpease?style=flat-square" alt="Commit Activity" />
   </a>
 </p>
+
+## 📬 me@24jaser.ru
