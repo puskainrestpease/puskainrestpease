@@ -1,10 +1,1 @@
-# Maksim Tumanov Unity C# Python JS NodeJS React developer
-
-
-# 𖤐 𐦍 ☾𖤓 ࣪𖤐 𐦍 ☾𖤓
-
-- I had a lot of projects that I was do alone. (ImpulseLP-VasilievvLP, etc LP's)
-
-- I used to write websites and bots in javascript and python. Now I'm back to writing games in C#, GodotEngine
-
-# 𖤐 𐦍 ☾𖤓 ࣪𖤐 𐦍 ☾𖤓
+![{1DC612C6-ED03-440A-B77A-F4D36EE99FD4}](https://github.com/user-attachments/assets/f9b01133-b90d-4c17-a71e-c142460b7722)
