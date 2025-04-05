@@ -1,1 +1,15 @@
-![{1DC612C6-ED03-440A-B77A-F4D36EE99FD4}](https://github.com/user-attachments/assets/f9b01133-b90d-4c17-a71e-c142460b7722)
+<img src="https://github.com/user-attachments/assets/f9b01133-b90d-4c17-a71e-c142460b7722" width="400" alt="Dev Banner" />
+<p align="center">
+  <a href="https://github.com/puskainrestpease">
+    <img src="https://img.shields.io/github/followers/puskainrestpease?label=Followers&style=flat-square" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/puskainrestpease?tab=repositories">
+    <img src="https://img.shields.io/github/stars/puskainrestpease?label=Total%20Stars&style=flat-square" alt="GitHub total stars" />
+  </a>
+  <a href="https://github.com/puskainrestpease">
+    <img src="https://komarev.com/ghpvc/?username=puskainrestpease&style=flat-square&color=blue" alt="Profile views" />
+  </a>
+  <a href="https://github.com/puskainrestpease/puskainrestpease">
+    <img src="https://img.shields.io/github/commit-activity/m/puskainrestpease/puskainrestpease?style=flat-square" alt="Commit Activity" />
+  </a>
+</p>
