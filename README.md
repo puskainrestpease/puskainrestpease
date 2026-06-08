@@ -17,4 +17,4 @@
   </a>
 </p>
 
-## 📬 me@24jaser.ru
+## maksos.ru
