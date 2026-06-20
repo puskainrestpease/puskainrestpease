@@ -36,7 +36,7 @@
 ### 📡 Личка
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/puskain1)
-[![Website](https://img.shields.io/badge/Website-24jaser.ru-000000?style=flat-square&logo=googlechrome&logoColor=white)](http://maksos.ru)
-
+[![Website](https://img.shields.io/badge/Website-maksos.ru-000000?style=flat-square&logo=googlechrome&logoColor=white)](http://maksos.ru)
+[![old website](https://img.shields.io/badge/Website-24jaser.ru-000000?style=flat-square&logo=googlechrome&logoColor=white)](http://24jaser.ru)
 
 </div>
