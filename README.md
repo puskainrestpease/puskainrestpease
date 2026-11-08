@@ -1,16 +1,16 @@
 # Maksos
 
-**Software developer focused on backend systems, automation and application development.**
+**Software developer focused on backend development, automation and application engineering.**
 
-I build software across Python and JavaScript ecosystems, experiment with systems programming, and maintain tools for web services, bots and desktop environments.
+I work across Python and JavaScript ecosystems, building web services, bots, desktop utilities and interactive applications. I am interested in maintainable architecture, practical tooling and Linux-based environments.
 
-## Areas of work
+## Focus areas
 
-- Backend development and API design
-- Automation and developer tooling
-- Web applications and services
-- Telegram bots and integrations
-- Game development and interactive applications
+- Backend services and API development
+- Automation and integrations
+- Web application development
+- Telegram bots and messaging systems
+- Desktop and mobile application development
 - Linux tooling and system configuration
 
 ## Technology
@@ -27,13 +27,12 @@ I build software across Python and JavaScript ecosystems, experiment with system
 
 | Project | Description |
 | --- | --- |
-| [ImpulseJS](https://github.com/puskainrestpease/ImpulseJS) | JavaScript-focused project and tooling |
-| [Clicker2D](https://github.com/puskainrestpease/Clicker2D) | 2D game development project |
-| [archer-t2u-plus-linux](https://github.com/puskainrestpease/archer-t2u-plus-linux) | Linux support and driver-related resources for TP-Link Archer T2U Plus |
-| [pico-soundpad](https://github.com/puskainrestpease/pico-soundpad) | Audio utility for Pico VR |
-| [sharaga-bot-tg](https://github.com/puskainrestpease/sharaga-bot-tg) | Telegram bot project |
+| [Clicker2D](https://github.com/puskainrestpease/Clicker2D) | 2D game project organized as a Unity-based application |
+| [PhotoFARMVK](https://github.com/puskainrestpease/PhotoFARMVK) | Python utility for automating photo uploads to VK albums |
+| [Pico Soundpad](https://github.com/puskainrestpease/pico-soundpad) | Android soundboard application for Pico VR headsets |
+| [Archer T2U Plus Linux](https://github.com/puskainrestpease/archer-t2u-plus-linux) | Linux setup and driver resources for the TP-Link Archer T2U Plus adapter |
 
-## GitHub activity
+## GitHub statistics
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=puskainrestpease&show_icons=true&hide_border=true&include_all_commits=true">
