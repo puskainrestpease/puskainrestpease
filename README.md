@@ -49,11 +49,11 @@ I value maintainable code, clear interfaces and practical solutions to real prob
 
 | Project | Description |
 | --- | --- |
-| [ASCII Icon Manager](https://github.com/puskainrestpease/ASCII) | Python utility for ASCII image conversion and Steam library icon management, including backups and restoration |
-| [Shorts Generator AI](https://github.com/puskainrestpease/shorts-generator-ai) | Automated video-generation pipeline with script writing, speech synthesis, subtitles and 9:16 video assembly |
+| [Jaser](https://github.com/puskainrestpease/jaser) | Real-time messaging application built with React, Express, MongoDB and Socket.IO |
+| [Timeweb Test Application](https://github.com/puskainrestpease/timewebtest) | Token-protected homework portal with an AI chat interface and schedule page |
+| [ASCII Icon Manager](https://github.com/puskainrestpease/ASCII) | Python utility for ASCII image conversion and Steam library icon management |
+| [Shorts Generator AI](https://github.com/puskainrestpease/shorts-generator-ai) | Automated video-generation pipeline with script writing, speech synthesis, subtitles and video assembly |
 | [Pico Soundpad](https://github.com/puskainrestpease/pico-soundpad) | Android soundboard application for Pico VR headsets |
-| [PhotoFARMVK](https://github.com/puskainrestpease/PhotoFARMVK) | Python utility for automating photo uploads to VK albums |
-| [Archer T2U Plus Linux](https://github.com/puskainrestpease/archer-t2u-plus-linux) | Linux setup and driver resources for the TP-Link Archer T2U Plus adapter |
 
 ## GitHub activity
 
