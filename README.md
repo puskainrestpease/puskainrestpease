@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/puskainrestpease/puskainrestpease/main/assets/profile-avatar.jpg" width="160" alt="Profile image">
-
 <pre>
  ____  _   _ ____  _  __    _    ____  _____ ____ _____
 |  _ \| | | / ___|| |/ /   / \  |  _ \| ____/ ___|_   _|
