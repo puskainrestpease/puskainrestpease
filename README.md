@@ -2,15 +2,15 @@
 
 **Software developer focused on backend development, automation and application engineering.**
 
-I work across Python and JavaScript ecosystems, building web services, bots, desktop utilities and interactive applications. I am interested in maintainable architecture, practical tooling and Linux-based environments.
+I work across Python and JavaScript ecosystems, building web services, automation tools, bots and desktop utilities. My interests include maintainable software architecture, practical developer tooling and Linux-based environments.
 
 ## Focus areas
 
 - Backend services and API development
-- Automation and integrations
+- Automation and third-party integrations
 - Web application development
-- Telegram bots and messaging systems
-- Desktop and mobile application development
+- Messaging and bot development
+- Desktop and mobile utilities
 - Linux tooling and system configuration
 
 ## Technology
@@ -27,9 +27,10 @@ I work across Python and JavaScript ecosystems, building web services, bots, des
 
 | Project | Description |
 | --- | --- |
-| [Clicker2D](https://github.com/puskainrestpease/Clicker2D) | 2D game project organized as a Unity-based application |
-| [PhotoFARMVK](https://github.com/puskainrestpease/PhotoFARMVK) | Python utility for automating photo uploads to VK albums |
+| [ASCII Icon Manager](https://github.com/puskainrestpease/ASCII) | Python utility for ASCII image conversion and Steam library icon management, including backups and restoration |
+| [Shorts Generator AI](https://github.com/puskainrestpease/shorts-generator-ai) | Automated video-generation pipeline with script writing, speech synthesis, subtitles and 9:16 video assembly |
 | [Pico Soundpad](https://github.com/puskainrestpease/pico-soundpad) | Android soundboard application for Pico VR headsets |
+| [PhotoFARMVK](https://github.com/puskainrestpease/PhotoFARMVK) | Python utility for automating photo uploads to VK albums |
 | [Archer T2U Plus Linux](https://github.com/puskainrestpease/archer-t2u-plus-linux) | Linux setup and driver resources for the TP-Link Archer T2U Plus adapter |
 
 ## GitHub statistics
