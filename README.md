@@ -1,43 +1,52 @@
-<div align="center">
+# Maksos
 
-### пишу код, гоняю баги, иногда они побеждают
+**Software developer focused on backend systems, automation and application development.**
 
-<br>
+I build software across Python and JavaScript ecosystems, experiment with systems programming, and maintain tools for web services, bots and desktop environments.
 
-[![Profile views](https://komarev.com/ghpvc/?username=puskainrestpease&style=flat-square&color=blueviolet)](https://github.com/puskainrestpease)
-[![GitHub followers](https://img.shields.io/github/followers/puskainrestpease?label=Followers&style=flat-square&color=blueviolet)](https://github.com/puskainrestpease)
-[![GitHub stars](https://img.shields.io/github/stars/puskainrestpease?label=Total%20Stars&style=flat-square&color=blueviolet)](https://github.com/puskainrestpease?tab=repositories)
-[![Commit Activity](https://img.shields.io/github/commit-activity/m/puskainrestpease/puskainrestpease?style=flat-square&color=blueviolet)](https://github.com/puskainrestpease/puskainrestpease)
+## Areas of work
 
-<br>
+- Backend development and API design
+- Automation and developer tooling
+- Web applications and services
+- Telegram bots and integrations
+- Game development and interactive applications
+- Linux tooling and system configuration
 
----
+## Technology
 
-### 🛠 Стек
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+## Selected projects
 
----
+| Project | Description |
+| --- | --- |
+| [ImpulseJS](https://github.com/puskainrestpease/ImpulseJS) | JavaScript-focused project and tooling |
+| [Clicker2D](https://github.com/puskainrestpease/Clicker2D) | 2D game development project |
+| [archer-t2u-plus-linux](https://github.com/puskainrestpease/archer-t2u-plus-linux) | Linux support and driver-related resources for TP-Link Archer T2U Plus |
+| [pico-soundpad](https://github.com/puskainrestpease/pico-soundpad) | Audio utility for Pico VR |
+| [sharaga-bot-tg](https://github.com/puskainrestpease/sharaga-bot-tg) | Telegram bot project |
 
-### 📊 Статистика
+## GitHub activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=puskainrestpease&show_icons=true&theme=radical&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=puskainrestpease&show_icons=true&hide_border=true&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=puskainrestpease&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub statistics">
+</picture>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puskainrestpease&layout=compact&theme=radical&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=puskainrestpease&layout=compact&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puskainrestpease&layout=compact&hide_border=true" alt="Most used languages">
+</picture>
 
----
+## Contact
 
-### 📡 Личка
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/puskain1)
-[![Website](https://img.shields.io/badge/Website-maksos.ru-000000?style=flat-square&logo=googlechrome&logoColor=white)](http://maksos.ru)
-[![old website](https://img.shields.io/badge/OldWebsite-24jaser.ru-000000?style=flat-square&logo=googlechrome&logoColor=white)](http://24jaser.ru)
-[![portfolio](https://img.shields.io/badge/PortfolioGithub-puskainrestpease.github.io-000000?style=flat-square&logo=googlechrome&logoColor=white)](puskainrestpease.github.io)
-
-</div>
+- Telegram: [@puskain1](https://t.me/puskain1)
+- Website: [maksos.ru](https://maksos.ru)
+- GitHub: [@puskainrestpease](https://github.com/puskainrestpease)
