@@ -58,13 +58,13 @@ I value maintainable code, clear interfaces and practical solutions to real prob
 ## GitHub activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=puskainrestpease&show_icons=true&hide_border=true&include_all_commits=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=puskainrestpease&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub statistics">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=puskainrestpease&show_icons=true&hide_border=true&include_all_commits=true">
+  <img src="https://github-stats-extended.vercel.app/api?username=puskainrestpease&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub statistics">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=puskainrestpease&layout=compact&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puskainrestpease&layout=compact&hide_border=true" alt="Most used languages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=puskainrestpease&layout=compact&hide_border=true">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=puskainrestpease&layout=compact&hide_border=true" alt="Most used languages">
 </picture>
 
 ## Contact
