@@ -3,37 +3,24 @@
 <img src="https://raw.githubusercontent.com/puskainrestpease/puskainrestpease/main/assets/profile-avatar.jpg" width="160" alt="Profile image">
 
 <pre>
- __  __    _    _  __ ____   ___  ____  
-|  \/  |  / \  | |/ /|  _ \ / _ \ / ___|
-| |\/| | / _ \ | ' / | |_) | | | | (___ 
-| |  | |/ ___ \| . \ |  __/| |_| |___) |
-|_|  |_/_/   \_\_|\_\|_|    \___/|____/
+ ____  _   _ ____  _  __    _    ____  _____ ____ _____
+|  _ \| | | / ___|| |/ /   / \  |  _ \| ____/ ___|_   _|
+| |_) | | | \___ \| ' /   / _ \ | |_) |  _| \___ \ | |
+|  __/| |_| |___) | . \  / ___ \|  _ <| |___ ___) || |
+|_|    \___/|____/|_|\_\/_/   \_\_| \_\_____|____/ |_|
 </pre>
 
 **Software developer · Backend · Automation · Linux**
 
-[Website](https://maksos.ru) · [Telegram](https://t.me/puskain1) · [GitHub](https://github.com/puskainrestpease)
+<sub>кто пчелок уважает, кто к ним не пристает того они не жалят</sub>
+
+[Telegram](https://t.me/puskain1) · [GitHub](https://github.com/puskainrestpease)
 
 </div>
 
 ---
 
-## About
-
-I build software across Python, JavaScript and .NET ecosystems. My work includes backend services, web applications, messaging bots, desktop utilities and tools for Linux environments.
-
-I value maintainable code, clear interfaces and practical solutions to real problems.
-
-## Focus areas
-
-- Backend services and API development
-- Web applications and integrations
-- Automation and developer tooling
-- Telegram bots and messaging systems
-- Desktop and mobile applications
-- Linux administration and self-hosted infrastructure
-
-## Technology
+## tech
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -45,18 +32,6 @@ I value maintainable code, clear interfaces and practical solutions to real prob
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## Selected projects
-
-| Project | Description |
-| --- | --- |
-| [Jaser](https://github.com/puskainrestpease/jaser) | Real-time messaging application built with React, Express, MongoDB and Socket.IO |
-| [Timeweb Test Application](https://github.com/puskainrestpease/timewebtest) | Token-protected homework portal with an AI chat interface and schedule page |
-| [ASCII Icon Manager](https://github.com/puskainrestpease/ASCII) | Python utility for ASCII image conversion and Steam library icon management |
-| [Shorts Generator AI](https://github.com/puskainrestpease/shorts-generator-ai) | Automated video-generation pipeline with script writing, speech synthesis, subtitles and video assembly |
-| [Pico Soundpad](https://github.com/puskainrestpease/pico-soundpad) | Android soundboard application for Pico VR headsets |
-
-## GitHub activity
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=puskainrestpease&show_icons=true&hide_border=true&include_all_commits=true">
   <img src="https://github-stats-extended.vercel.app/api?username=puskainrestpease&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub statistics">
@@ -66,9 +41,3 @@ I value maintainable code, clear interfaces and practical solutions to real prob
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=puskainrestpease&layout=compact&hide_border=true">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=puskainrestpease&layout=compact&hide_border=true" alt="Most used languages">
 </picture>
-
-## Contact
-
-- Telegram: [@puskain1](https://t.me/puskain1)
-- Website: [maksos.ru](https://maksos.ru)
-- GitHub: [@puskainrestpease](https://github.com/puskainrestpease)
